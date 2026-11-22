@@ -277,6 +277,8 @@ Hasil yang diharapkan dari pengembangan fitur Ulasan Relevan meliputi:
 8. **Prototipe Interaktif**  
    Menggambarkan alur penggunaan fitur Ulasan Relevan pada halaman detail produk.
 
+> **Realisasi prototipe akademik (Worksheet 12):** Prototipe diwujudkan dalam lima layar yang saling terhubung, yaitu Search Results, Product Detail, Review Summary, Review List & Filters, serta Review Detail. Setiap layar memiliki mode wireframe low-fidelity dan prototype high-fidelity. Rincian ini menjelaskan bentuk realisasi prototipe, bukan penambahan atau perubahan kebutuhan produk.
+
 ---
 
 ## 12. Product Acceptance Criteria
